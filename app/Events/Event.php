@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace ProophLaravel\Events;
 
 abstract class Event
 {
